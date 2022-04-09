@@ -1,6 +1,9 @@
 景牛矿池跟目前其他矿池给出的临时解决方案，或者中转服务器、搭建VPN相比，有以下优点：
+
 ETH、LTC、BTC这三种主流币种无需中转即用
+
 景牛矿池注册网址：http://share.jniupool.com/register.html?code=Pdlv7NS6Xp
+
 
 1、矿池稳定，费率低，起提额低；
 
