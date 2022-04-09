@@ -20,7 +20,8 @@ ETH、LTC、BTC这三种主流币种无需中转即用
 5、APP支持安卓和IOS，并且内容非常简洁操作简单，矿机上线离线反应迅速。
 
 
-一句话概括就是：市场有点混乱，但景牛矿池还是正规军作战。
+一句话概括就是：市场有点混乱，但景牛矿池还是正规军作战。![Screenshot_20220410_015956_uni UNI505063C](https://user-images.githubusercontent.com/74077677/162586142-f0caac65-5492-4399-bf00-3103dc20ec16.jpg)
+
 
 
 合法、合规、合乎矿业的江湖道义！
@@ -31,11 +32,13 @@ ETH、LTC、BTC这三种主流币种无需中转即用
 
 这些坑，景牛矿池都可以帮你避开！
 
+![Screenshot_20220410_020004_uni UNI505063C](https://user-images.githubusercontent.com/74077677/162586174-fbae2696-447a-4207-b54d-52abfc1322b9.jpg)
 
 景牛矿池矿池支持币种：
 
 ETH、LTC、BTC这三种主流币种会在首发中发行，计划将于2022年2月前发布ETC、ZEC、RVN、BCH、BSV、KDA、ERGO、CKB、DASH、DCR、XMR这些POW挖矿的热门币种
 
+![Screenshot_20220410_020000_uni UNI505063C](https://user-images.githubusercontent.com/74077677/162586167-0c67f925-3f5c-4bf9-a64a-fc5d9ef29a62.jpg)
 
 费率：
 
